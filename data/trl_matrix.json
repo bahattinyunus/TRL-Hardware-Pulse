@@ -42,6 +42,27 @@
       "trl": 9,
       "status": "Commercialized",
       "notes": "Proven in 5800X3D and subsequent models."
+    },
+    {
+      "name": "Google TPU v5p",
+      "vendor": "Google",
+      "trl": 9,
+      "status": "Production",
+      "notes": "Leading cloud AI accelerator."
+    },
+    {
+      "name": "RISC-V Server Cores",
+      "vendor": "Ventana / SiFive",
+      "trl": 7,
+      "status": "Validation",
+      "notes": "Entering data center pilot programs."
+    },
+    {
+      "name": "LPU (Language Processing Unit)",
+      "vendor": "Groq",
+      "trl": 9,
+      "status": "Production",
+      "notes": "Optimized for ultra-fast LLM inference."
     }
   ]
 }
