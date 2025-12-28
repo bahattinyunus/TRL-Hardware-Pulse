@@ -1,0 +1,47 @@
+{
+  "last_updated": "2025-12-28",
+  "technologies": [
+    {
+      "name": "Ray Tracing (Hardware Accelerated)",
+      "vendor": "NVIDIA/AMD/Intel",
+      "trl": 9,
+      "status": "Commercialized",
+      "notes": "Standard feature in modern GPUs."
+    },
+    {
+      "name": "Blackwell Architecture",
+      "vendor": "NVIDIA",
+      "trl": 9,
+      "status": "Production",
+      "notes": "Current flagship AI/DC architecture."
+    },
+    {
+      "name": "Instinct MI350",
+      "vendor": "AMD",
+      "trl": 9,
+      "status": "Production",
+      "notes": "Competing in high-end AI training space."
+    },
+    {
+      "name": "18A Process Node",
+      "vendor": "Intel",
+      "trl": 6,
+      "status": "Testing",
+      "notes": "Critical for Intel Foundry's success."
+    },
+    {
+      "name": "Optical Interconnects (GPU-to-GPU)",
+      "vendor": "Various",
+      "trl": 5,
+      "status": "Prototyping",
+      "notes": "Expected to reach TRL 9 by 2027-2028."
+    },
+    {
+      "name": "3D Stacked L3 Cache",
+      "vendor": "AMD",
+      "trl": 9,
+      "status": "Commercialized",
+      "notes": "Proven in 5800X3D and subsequent models."
+    }
+  ]
+}
